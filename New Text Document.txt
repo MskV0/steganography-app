@@ -1,7 +1,3 @@
-Certainly! Below is a sample README file that you can use for your Steganography application. You can customize it further based on your preferences and any additional features you may want to highlight.
-
----
-
 # Steganography App
 
 ## Overview
@@ -59,13 +55,6 @@ The Steganography App allows users to hide secret messages within images using a
 - Improved security features for message encryption.
 - User preferences for default save locations and settings.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Contact
 
 For any questions or feedback, please contact [ms9989] at [victorystarts640@gmail.com].
-
-
----
